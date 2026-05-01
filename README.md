@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nikola Cehic, senior fullstack engineer building crypto infrastructure, agent systems, and product-grade software" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Nikola Cehic, senior fullstack engineer for crypto infrastructure, AI systems, and data products" width="100%" />
 </p>
 
 # Nikola Cehic
 
-Senior Fullstack Engineer based in Belgrade. I build production systems where infrastructure, product UX, and applied AI have to work together: block explorers, governance tools, indexers, APIs, data-heavy dashboards, agent harnesses, and decision workflows with inspectable evidence.
+Senior Fullstack Engineer based in Belgrade. I build production systems where infrastructure, product UX, and applied AI meet: block explorers, governance tools, indexers, APIs, data-heavy dashboards, agent harnesses, and decision workflows with inspectable evidence.
 
 <p>
   <a href="https://nikola-cehic-portfolio.vercel.app"><strong>Portfolio</strong></a>

@@ -1,57 +1,97 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Nikola Cehic engineering profile banner</title>
-  <desc id="desc">A restrained engineering brief for a senior fullstack engineer focused on crypto infrastructure, agent systems, and product-grade software.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 480" width="1400" height="480" role="img" aria-labelledby="tP dP">
+  <title id="tP">Nikola Cehic, Senior Fullstack Engineer</title>
+  <desc id="dP">A senior engineering profile banner: identity left, refined systems map right, restrained proof strip below.</desc>
+
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0d1113"/>
-      <stop offset="0.55" stop-color="#101719"/>
-      <stop offset="1" stop-color="#171513"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="90" y1="292" x2="1110" y2="122" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#84b8c4" stop-opacity="0.2"/>
-      <stop offset="0.5" stop-color="#b9d7df"/>
-      <stop offset="1" stop-color="#d4bc73" stop-opacity="0.85"/>
-    </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#273134" stroke-opacity="0.34" stroke-width="1"/>
+    <pattern id="gP" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" stroke="#1a2225" stroke-width="1"></path>
     </pattern>
-    <filter id="soft" x="-30" y="-30" width="1260" height="480" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
+    <pattern id="gPf" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" stroke="#141a1c" stroke-width="0.5"></path>
+    </pattern>
+    <linearGradient id="signalP" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7fa8b2" stop-opacity="0.5"></stop>
+      <stop offset="1" stop-color="#c9a85a" stop-opacity="0.9"></stop>
+    </linearGradient>
+    <radialGradient id="vignetteP" cx="0.25" cy="0.4" r="0.9">
+      <stop offset="0" stop-color="#11181b" stop-opacity="0.6"></stop>
+      <stop offset="1" stop-color="#0d1113" stop-opacity="0"></stop>
+    </radialGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#panel)"/>
-  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#grid)" opacity="0.68"/>
-  <path d="M84 286C205 222 323 207 438 238C556 270 646 288 760 240C870 194 966 126 1120 112" stroke="url(#signal)" stroke-width="2.4"/>
-  <path d="M95 299C246 279 358 270 468 294C620 328 732 284 850 218C940 168 1032 142 1116 144" stroke="#5d6d70" stroke-opacity="0.35" stroke-width="1.2"/>
-  <circle cx="182" cy="247" r="5" fill="#b9d7df"/>
-  <circle cx="438" cy="238" r="5" fill="#d4bc73"/>
-  <circle cx="760" cy="240" r="5" fill="#b9d7df"/>
-  <circle cx="930" cy="167" r="5" fill="#d4bc73"/>
-  <circle cx="1120" cy="112" r="5" fill="#b9d7df"/>
-  <circle cx="760" cy="240" r="20" stroke="#b9d7df" stroke-opacity="0.26"/>
-  <circle cx="760" cy="240" r="42" stroke="#b9d7df" stroke-opacity="0.13"/>
-  <circle cx="262" cy="152" r="88" fill="#84b8c4" opacity="0.06" filter="url(#soft)"/>
-  <circle cx="1016" cy="132" r="96" fill="#d4bc73" opacity="0.05" filter="url(#soft)"/>
+  <rect width="1400" height="480" fill="#0d1113"></rect>
+  <rect width="1400" height="480" fill="url(#gPf)" opacity="0.32"></rect>
+  <rect width="1400" height="480" fill="url(#gP)" opacity="0.45"></rect>
+  <rect width="1400" height="480" fill="url(#vignetteP)"></rect>
 
-  <text x="72" y="72" fill="#f1f2ec" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Nikola Cehic</text>
-  <text x="72" y="99" fill="#9fb0b2" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.8">SENIOR FULLSTACK ENGINEER</text>
-  <text x="960" y="72" fill="#b9d7df" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="1.4">BELGRADE / REMOTE / EU</text>
+  <text x="1320" y="92" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.6" fill="#7fa8b2" fill-opacity="0.9">BELGRADE · REMOTE · EU</text>
 
-  <text x="72" y="176" fill="#f1f2ec" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Infrastructure-minded product engineering.</text>
-  <text x="72" y="222" fill="#c8d1d1" font-family="Arial, Helvetica, sans-serif" font-size="22">Crypto systems, agent workflows, data products, and interfaces people can trust.</text>
+  <g>
 
-  <rect x="72" y="288" width="312" height="72" rx="10" fill="#101719" stroke="#2d393c"/>
-  <text x="96" y="319" fill="#b9d7df" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">CRYPTO INFRA</text>
-  <text x="96" y="345" fill="#f1f2ec" font-family="Arial, Helvetica, sans-serif" font-size="16">Indexers, explorers, governance</text>
+    <text x="80" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.8" fill="#7fa8b2">SR. FULLSTACK ENGINEER</text>
 
-  <rect x="444" y="288" width="312" height="72" rx="10" fill="#101719" stroke="#2d393c"/>
-  <text x="468" y="319" fill="#b9d7df" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">AGENT SYSTEMS</text>
-  <text x="468" y="345" fill="#f1f2ec" font-family="Arial, Helvetica, sans-serif" font-size="16">Evidence, evals, replay, traces</text>
+    <text x="78" y="268" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="600" fill="#ece9e0" letter-spacing="-2.4">Nikola Cehic</text>
 
-  <rect x="816" y="288" width="312" height="72" rx="10" fill="#101719" stroke="#2d393c"/>
-  <text x="840" y="319" fill="#b9d7df" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5">PRODUCT SURFACES</text>
-  <text x="840" y="345" fill="#f1f2ec" font-family="Arial, Helvetica, sans-serif" font-size="16">React, APIs, dashboards, systems</text>
+    <line x1="80" y1="294" x2="140" y2="294" stroke="#c9a85a" stroke-width="1.5"></line>
 
-  <rect x="1" y="1" width="1198" height="418" rx="28" stroke="#263033" stroke-width="2"/>
+    <text x="80" y="332" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="300" fill="#b3c0c2" letter-spacing="0.1">Crypto infrastructure · AI systems · data products</text>
+  </g>
+
+  <g transform="translate(900,140)">
+
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2.6" fill="#6b7d80">SURFACE  →  INFRA</text>
+
+    <g stroke="#334145" stroke-width="1" fill="none" stroke-opacity="0.6">
+      <path d="M 70 50 L 230 50"></path>
+      <path d="M 70 50 L 230 130"></path>
+      <path d="M 70 130 L 230 50"></path>
+      <path d="M 70 130 L 230 210"></path>
+      <path d="M 70 210 L 230 130"></path>
+      <path d="M 70 210 L 230 210"></path>
+      <path d="M 270 50 L 410 90"></path>
+      <path d="M 270 130 L 410 90"></path>
+      <path d="M 270 210 L 410 170"></path>
+    </g>
+
+    <path d="M 70 130 L 230 130" stroke="url(#signalP)" stroke-width="1.6" fill="none"></path>
+    <path d="M 270 130 L 410 170" stroke="url(#signalP)" stroke-width="1.6" fill="none"></path>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#b3c0c2">
+      <rect x="0" y="38" width="70" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="10" y="54">ui</text>
+      <rect x="0" y="118" width="70" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="10" y="134">explorer</text>
+      <rect x="0" y="198" width="70" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="10" y="214">agent</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#b3c0c2">
+      <rect x="230" y="38" width="80" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="240" y="54">api</text>
+
+      <rect x="230" y="118" width="80" height="24" rx="2" fill="#0d1113" stroke="#c9a85a" stroke-opacity="0.75"></rect>
+      <text x="240" y="134" fill="#ece9e0">indexer</text>
+      <rect x="230" y="198" width="80" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="240" y="214">evals</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#b3c0c2">
+      <rect x="410" y="78" width="80" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="420" y="94">postgres</text>
+      <rect x="410" y="158" width="80" height="24" rx="2" fill="#0d1113" stroke="#2a3539"></rect>
+      <text x="420" y="174">chain rpc</text>
+    </g>
+
+    <circle cx="270" cy="130" r="3.5" fill="#c9a85a"></circle>
+    <circle cx="270" cy="130" r="9" fill="none" stroke="#c9a85a" stroke-opacity="0.4"></circle>
+
+    <circle cx="70" cy="130" r="3" fill="#7fa8b2"></circle>
+  </g>
+
+  <line x1="80" y1="402" x2="1320" y2="402" stroke="#1f2a2d"></line>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" letter-spacing="1.6" fill="#a8b6b8">
+    <text x="80" y="430"><tspan fill="#c9a85a">001</tspan>  ·  indexers + explorers</text>
+    <text x="540" y="430"><tspan fill="#c9a85a">002</tspan>  ·  evidence-backed agents</text>
+    <text x="1000" y="430"><tspan fill="#c9a85a">003</tspan>  ·  react · go · postgres</text>
+  </g>
 </svg>

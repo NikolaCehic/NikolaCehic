@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Nikola Cehic, senior fullstack engineer for crypto infrastructure, agent systems, and product-grade tooling" width="100%" />
+</p>
+
 # Nikola Cehic
 
 Senior Fullstack Engineer based in Belgrade. I build production systems where infrastructure, product UX, and applied AI meet: block explorers, governance tools, indexers, APIs, data-heavy dashboards, agent harnesses, and decision workflows with inspectable evidence.
@@ -15,8 +19,8 @@ Senior Fullstack Engineer based in Belgrade. I build production systems where in
 ## Current Focus
 
 - Building explorer, treasury, API, design-system, and indexing surfaces at SEDA.
-- Shipping public AI and data products that emphasize evidence, replay, deterministic derivation, and reviewable artifacts.
-- Looking for senior fullstack, Web3 infrastructure, AI-native product, and data-heavy product engineering roles.
+- Shipping public AI, trading, and infrastructure tools that emphasize evidence, replay, deterministic derivation, and reviewable artifacts.
+- Looking for senior fullstack, Web3 infrastructure, AI-native product, and systems-heavy product engineering roles.
 
 ## Engineering Strengths
 
@@ -24,8 +28,8 @@ Senior Fullstack Engineer based in Belgrade. I build production systems where in
 | --- | --- |
 | **Crypto infrastructure** | Cosmos SDK apps, chain explorers, Go indexer publishers, Postgres models, wallet flows, governance and treasury tooling. |
 | **Product engineering** | React and TypeScript frontends, public APIs, design systems, dashboard surfaces, production debugging, testable delivery. |
-| **AI systems** | Agent harnesses with claim graphs, evidence maps, contradictions, uncertainty, eval reports, traces, replay, and review states. |
-| **Data products** | Multi-source ingestion, deterministic derivation, behavioral detectors, scheduled jobs, grounded AI summaries, and audit-friendly reports. |
+| **Agent systems** | Agent harnesses with claim graphs, evidence maps, contradictions, uncertainty, eval reports, traces, replay, and review states. |
+| **Trading analytics** | Multi-source ingestion, deterministic derivation, behavioral detectors, scheduled jobs, grounded AI summaries, and audit-friendly reports. |
 
 ## Selected Systems
 
@@ -48,7 +52,7 @@ Frontend        React, Next.js, TanStack, Angular, RxJS, NgRx
 Backend         Node.js, NestJS, REST, GraphQL, Apollo
 Data            PostgreSQL, Prisma, Drizzle, Neon, event streams
 Web3            Cosmos SDK, CosmWasm, EVM, wallet flows, indexers
-AI systems      Claude, Gemini, evals, traces, JSON schemas, grounding checks
+Agent systems   Claude, Gemini, evals, traces, JSON schemas, grounding checks
 Quality         Playwright, Vitest, Jest, CI, release gates, reviewable artifacts
 ```
 
@@ -71,7 +75,7 @@ Quality         Playwright, Vitest, Jest, CI, release gates, reviewable artifact
 
 ## Contact
 
-I am open to senior fullstack, Web3 infrastructure, AI-native product, and data-heavy product engineering roles.
+I am open to senior fullstack, Web3 infrastructure, AI-native product, and systems-heavy product engineering roles.
 
 <p>
   <a href="mailto:nikola95cehic@gmail.com"><strong>nikola95cehic@gmail.com</strong></a>

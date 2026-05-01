@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nikola Cehic, senior fullstack engineer for crypto infrastructure, AI systems, and data products" width="100%" />
-</p>
-
 # Nikola Cehic
 
 Senior Fullstack Engineer based in Belgrade. I build production systems where infrastructure, product UX, and applied AI meet: block explorers, governance tools, indexers, APIs, data-heavy dashboards, agent harnesses, and decision workflows with inspectable evidence.

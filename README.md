@@ -37,7 +37,8 @@ Senior Fullstack Engineer based in Belgrade. I build production systems where in
 | --- | --- |
 | **SEDA Explorer** | Chain inspection work across Go indexers, Postgres, public API surfaces, search, filters, and React UI. |
 | **SEDA Treasury** | Cosmos SDK group-module governance: security groups, proposal lifecycle, policy config, and wallet signing. |
-| **Enterprise DAO, Terraform Labs** | Built DAO creation, voting, treasury, execution, and CosmWasm integration for token and NFT governance products. |
+| **Enterprise DAO** | Built DAO creation, voting, treasury, execution, and CosmWasm integration for token and NFT governance products. |
+| **Enterprise Hub** | Bridging DAOs with the legal world by helping users create organizations that are auditable, taxable, and built for compliance. |
 | [**Crux Harness**](https://github.com/NikolaCehic/crux-harness) | Production-style agent harness for auditable analysis runs, schemas, evidence, eval council, diagnostics, reports, and release gates. |
 | [**Crux Studio**](https://github.com/NikolaCehic/Crux-Studio) | Decision workbench for inspecting agent output as a reviewed artifact: memo, claims, evidence, uncertainty, trace, replay, comparison. |
 | [**Trade Journal**](https://github.com/NikolaCehic/trading_journal) | Full-stack trading journal with exchange imports, deterministic position derivation, 12 detectors, custom predicates, AI coach, weekly digest. |

@@ -57,36 +57,35 @@ I like systems that make serious work easier to trust: clear data models, inspec
   </tr>
 </table>
 
-## Systems Map
+## Product Threads
 
-| Project | Why it matters |
-| --- | --- |
-| [**Crux Studio**](https://github.com/NikolaCehic/Crux-Studio) | Decision workbench for turning agent analysis into inspectable memos, claims, evidence, uncertainty, trace, review, replay, comparison, and exportable decision records. |
-| [**Crux Harness**](https://github.com/NikolaCehic/crux-harness) | Production-style analysis harness that emits claim graphs, evidence maps, contradictions, evaluator diagnostics, traces, replay metadata, and release gates. |
-| [**Parallax**](https://github.com/NikolaCehic/Parallax) | Governed trading-thesis analysis agent with frozen evidence snapshots, Python analytics, council review, risk gates, lifecycle triggers, paper-trade controls, and audit bundles. |
-| [**Trade Journal**](https://github.com/NikolaCehic/trading_journal) | Full-stack trading journal with multi-exchange imports, deterministic position derivation, 12 behavioral detectors, custom predicates, AI coach, weekly digest, and demo mode. |
-| [**Aurelian Quant Console**](https://github.com/NikolaCehic/Aurelian-Quant-Console) | Simulated market intelligence and portfolio analytics platform with realtime services, quant workers, portfolio workers, health metrics, deployment smoke, and CI hardening. |
-| [**ClipInsight AI**](https://github.com/NikolaCehic/clipinsightAI) | Video-to-content product with Gemini analysis, platform-specific drafts, live previews, auth, billing, and dashboard workflows. |
-| [**Portfolio**](https://github.com/NikolaCehic/Nikola-Cehic-Portfolio) | React/Vite brand surface for senior fullstack, crypto infrastructure, and AI-native product roles. |
+Not every repository needs equal weight. The work I want to be known for sits in a few connected lanes:
+
+| Thread | Projects | Signal |
+| --- | --- | --- |
+| **Agent runtime infrastructure** | [Specwright](https://github.com/NikolaCehic/Specwright), [Workflow Supervisor](https://github.com/NikolaCehic/workflow-supervisor), [Crux Harness](https://github.com/NikolaCehic/crux-harness) | Lifecycle authority, policy gates, tool boundaries, evidence capture, replay, evals, and durable run artifacts. |
+| **Spec-first product delivery** | [Archetype](https://github.com/NikolaCehic/Archetype), [Crux Studio](https://github.com/NikolaCehic/Crux-Studio), [Portfolio](https://github.com/NikolaCehic/Nikola-Cehic-Portfolio) | Turning ambiguous product intent into reviewable contracts, polished interfaces, Playwright evidence, and handoff-ready packages. |
+| **Market and decision systems** | [Parallax](https://github.com/NikolaCehic/Parallax), [Trade Journal](https://github.com/NikolaCehic/trading_journal), [Aurelian Quant Console](https://github.com/NikolaCehic/Aurelian-Quant-Console) | Deterministic analytics, thesis review, behavioral detectors, risk boundaries, portfolio state, and audit-friendly reports. |
+| **Crypto product infrastructure** | SEDA Explorer, SEDA Treasury, Enterprise DAO, Enterprise Hub | Indexers, explorers, governance flows, wallet signing, public APIs, treasury operations, and compliance-minded Web3 products. |
 
 ## Stack
 
 ```text
-Languages        TypeScript, Go, Rust, JavaScript
-Frontend         React, Next.js, TanStack, Angular, RxJS, NgRx
-Backend          Node.js, NestJS, REST, GraphQL, Apollo
-Data             PostgreSQL, Prisma, Drizzle, Neon, Redis, event streams
-Web3             Cosmos SDK, CosmWasm, EVM, wallet flows, explorers, indexers
-Agent systems    Claude, Gemini, evals, traces, JSON schemas, grounding checks
-Quality          Playwright, Vitest, Jest, CI, release gates, reviewable artifacts
+Core build        TypeScript, React, Next.js, Node.js, Go, PostgreSQL
+Product UI        TanStack, Angular, RxJS, design systems, workflow-heavy dashboards
+Infra and data    REST, GraphQL, workers, indexers, Redis, Prisma, Drizzle, event streams
+Crypto/Web3       Cosmos SDK, CosmWasm, EVM, wallet flows, governance, explorers
+AI systems        Tool brokers, evals, traces, schemas, grounding checks, replay logs
+Verification      Playwright, Vitest, Jest, CI gates, release checks, audit bundles
 ```
 
-## Operating Principles
+## How I Build
 
-- Make important work inspectable: source evidence, schemas, traces, and artifacts should survive beyond the chat.
-- Keep product surfaces practical: the user should see the state, the risk, the next action, and the reason.
-- Prefer deterministic cores around AI systems: policy, gates, evals, replay, and provenance make agent work usable by teams.
-- Build across the full path: data model, API, workflow, UI, tests, release checks, and operating notes.
+- Start with the real workflow: who uses it, what state they need to trust, and what failure looks like.
+- Give complex systems a visible shape: source evidence, lifecycle state, risk, review status, and next action should be obvious.
+- Put deterministic rails around AI: contracts, policies, evals, provenance, and replay matter more than a clever prompt.
+- Treat interface quality as engineering quality: information hierarchy, motion, density, empty states, and errors all carry trust.
+- Leave the next person with artifacts: schemas, tests, traces, reports, release notes, and operating context.
 
 ## Career Thread
 

@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nikola Cehic, senior fullstack engineer for crypto infrastructure, agent systems, and product-grade tooling" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Abstract systems banner showing governed runtimes, evidence paths, workflow gates, and analytical product surfaces" width="100%" />
 </p>
 
-# Nikola Cehic
+<h1 align="center">Nikola Cehic</h1>
 
-Senior Fullstack Engineer based in Belgrade. I build production systems where infrastructure, product UX, and applied AI meet: block explorers, governance tools, indexers, APIs, data-heavy dashboards, agent harnesses, and decision workflows with inspectable evidence.
+<p align="center">
+  <strong>Senior Fullstack Engineer</strong><br />
+  Building product-grade systems for crypto infrastructure, governed AI workflows, and evidence-heavy decision tools.
+</p>
 
-<p>
+<p align="center">
   <a href="https://nikola-cehic-portfolio.vercel.app"><strong>Portfolio</strong></a>
   /
   <a href="./assets/Nikola-Cehic-CV.pdf"><strong>CV</strong></a>
@@ -16,63 +19,84 @@ Senior Fullstack Engineer based in Belgrade. I build production systems where in
   <a href="mailto:nikola95cehic@gmail.com"><strong>Email</strong></a>
 </p>
 
-## Current Focus
+---
 
-- Building explorer, treasury, API, design-system, and indexing surfaces at SEDA.
-- Shipping public AI, trading, and infrastructure tools that emphasize evidence, replay, deterministic derivation, and reviewable artifacts.
-- Looking for senior fullstack, Web3 infrastructure, AI-native product, and systems-heavy product engineering roles.
+## What I Build
 
-## Engineering Strengths
+I like systems that make serious work easier to trust: clear data models, inspected source evidence, deterministic workflows, replayable runs, strong user surfaces, and enough operational discipline that a team can understand what happened after the fact.
 
-| Area | Evidence |
+| Direction | What I tend to ship |
 | --- | --- |
-| **Crypto infrastructure** | Cosmos SDK apps, chain explorers, Go indexer publishers, Postgres models, wallet flows, governance and treasury tooling. |
-| **Product engineering** | React and TypeScript frontends, public APIs, design systems, dashboard surfaces, production debugging, testable delivery. |
-| **Agent systems** | Agent harnesses with claim graphs, evidence maps, contradictions, uncertainty, eval reports, traces, replay, and review states. |
-| **Trading analytics** | Multi-source ingestion, deterministic derivation, behavioral detectors, scheduled jobs, grounded AI summaries, and audit-friendly reports. |
+| **Governed agent systems** | Harnesses, lifecycle gates, evals, traces, evidence maps, replay, review states, and artifact contracts. |
+| **Crypto infrastructure** | Explorers, indexers, governance tools, wallet flows, Cosmos and CosmWasm product surfaces, APIs, and Postgres-backed operational systems. |
+| **Product engineering** | React and TypeScript applications with real workflows, clear information architecture, design systems, tests, and production-ready interfaces. |
+| **Analytical tooling** | Trading journals, thesis workbenches, quant consoles, deterministic derivation pipelines, and AI-assisted review loops. |
 
-## Selected Systems
+## Featured Work
 
-| System | Scope |
+<table>
+  <tr>
+    <td width="33%">
+      <h3><a href="https://github.com/NikolaCehic/Specwright">Specwright</a></h3>
+      <p><strong>Strict runtime for governed agent work.</strong></p>
+      <p>TypeScript/Bun runtime that makes agent runs lifecycle-bound, policy-governed, capability-brokered, evidence-grounded, eval-checked, replayable, and auditable.</p>
+      <p><sub>Runtime contracts / Tool broker / Gates / Evals / Run ledger</sub></p>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/NikolaCehic/Archetype">Archetype</a></h3>
+      <p><strong>Spec-driven frontend agent harness.</strong></p>
+      <p>Turns product ideas, screenshots, specs, and repo context into deterministic frontend contract packages that agents can implement tests-first and verify with Playwright evidence.</p>
+      <p><sub>Product intent / Design contracts / Test-first plans / Verification</sub></p>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/NikolaCehic/workflow-supervisor">Workflow Supervisor</a></h3>
+      <p><strong>Portable workflow skills for messy agent work.</strong></p>
+      <p>Installable skill pack for splitting fuzzy goals into bounded work units, building dossiers, separating implementation from verification, and leaving resumable Markdown state.</p>
+      <p><sub>Source grounding / Handoffs / Acceptance criteria / Repair loops</sub></p>
+    </td>
+  </tr>
+</table>
+
+## Systems Map
+
+| Project | Why it matters |
 | --- | --- |
-| **SEDA Explorer** | Chain inspection work across Go indexers, Postgres, public API surfaces, search, filters, and React UI. |
-| **SEDA Treasury** | Cosmos SDK group-module governance: security groups, proposal lifecycle, policy config, and wallet signing. |
-| **Enterprise DAO** | Built DAO creation, voting, treasury, execution, and CosmWasm integration for token and NFT governance products. |
-| **Enterprise Hub** | Bridging DAOs with the legal world by helping users create organizations that are auditable, taxable, and built for compliance. |
-| [**Crux Harness**](https://github.com/NikolaCehic/crux-harness) | Production-style agent harness for auditable analysis runs, schemas, evidence, eval council, diagnostics, reports, and release gates. |
-| [**Crux Studio**](https://github.com/NikolaCehic/Crux-Studio) | Decision workbench for inspecting agent output as a reviewed artifact: memo, claims, evidence, uncertainty, trace, replay, comparison. |
-| [**Trade Journal**](https://github.com/NikolaCehic/trading_journal) | Full-stack trading journal with exchange imports, deterministic position derivation, 12 detectors, custom predicates, AI coach, weekly digest. |
-| [**Parallax**](https://github.com/NikolaCehic/Parallax) | Trading-thesis analysis agent with deterministic Python analytics, council review, veto gates, lifecycle triggers, and audit bundles. |
-| [**ClipInsight AI**](https://github.com/NikolaCehic/clipinsightAI) | Video-to-content product with platform-specific generation, previews, auth, billing, and Gemini-powered analysis. |
+| [**Crux Studio**](https://github.com/NikolaCehic/Crux-Studio) | Decision workbench for turning agent analysis into inspectable memos, claims, evidence, uncertainty, trace, review, replay, comparison, and exportable decision records. |
+| [**Crux Harness**](https://github.com/NikolaCehic/crux-harness) | Production-style analysis harness that emits claim graphs, evidence maps, contradictions, evaluator diagnostics, traces, replay metadata, and release gates. |
+| [**Parallax**](https://github.com/NikolaCehic/Parallax) | Governed trading-thesis analysis agent with frozen evidence snapshots, Python analytics, council review, risk gates, lifecycle triggers, paper-trade controls, and audit bundles. |
+| [**Trade Journal**](https://github.com/NikolaCehic/trading_journal) | Full-stack trading journal with multi-exchange imports, deterministic position derivation, 12 behavioral detectors, custom predicates, AI coach, weekly digest, and demo mode. |
+| [**Aurelian Quant Console**](https://github.com/NikolaCehic/Aurelian-Quant-Console) | Simulated market intelligence and portfolio analytics platform with realtime services, quant workers, portfolio workers, health metrics, deployment smoke, and CI hardening. |
+| [**ClipInsight AI**](https://github.com/NikolaCehic/clipinsightAI) | Video-to-content product with Gemini analysis, platform-specific drafts, live previews, auth, billing, and dashboard workflows. |
+| [**Portfolio**](https://github.com/NikolaCehic/Nikola-Cehic-Portfolio) | React/Vite brand surface for senior fullstack, crypto infrastructure, and AI-native product roles. |
 
-## Stack I Reach For
+## Stack
 
 ```text
-Languages       TypeScript, Go, Rust, JavaScript
-Frontend        React, Next.js, TanStack, Angular, RxJS, NgRx
-Backend         Node.js, NestJS, REST, GraphQL, Apollo
-Data            PostgreSQL, Prisma, Drizzle, Neon, event streams
-Web3            Cosmos SDK, CosmWasm, EVM, wallet flows, indexers
-Agent systems   Claude, Gemini, evals, traces, JSON schemas, grounding checks
-Quality         Playwright, Vitest, Jest, CI, release gates, reviewable artifacts
+Languages        TypeScript, Go, Rust, JavaScript
+Frontend         React, Next.js, TanStack, Angular, RxJS, NgRx
+Backend          Node.js, NestJS, REST, GraphQL, Apollo
+Data             PostgreSQL, Prisma, Drizzle, Neon, Redis, event streams
+Web3             Cosmos SDK, CosmWasm, EVM, wallet flows, explorers, indexers
+Agent systems    Claude, Gemini, evals, traces, JSON schemas, grounding checks
+Quality          Playwright, Vitest, Jest, CI, release gates, reviewable artifacts
 ```
+
+## Operating Principles
+
+- Make important work inspectable: source evidence, schemas, traces, and artifacts should survive beyond the chat.
+- Keep product surfaces practical: the user should see the state, the risk, the next action, and the reason.
+- Prefer deterministic cores around AI systems: policy, gates, evals, replay, and provenance make agent work usable by teams.
+- Build across the full path: data model, API, workflow, UI, tests, release checks, and operating notes.
 
 ## Career Thread
 
 | Period | Role | Focus |
 | --- | --- | --- |
-| **2024 to now** | Senior Fullstack Engineer, SEDA | Explorer, treasury governance, design system monorepo, backend APIs, Go publishers, tests. |
+| **2024 to now** | Senior Fullstack Engineer, SEDA | Explorer, treasury governance, design-system monorepo, backend APIs, Go publishers, and test coverage. |
 | **2022 to 2024** | Senior Fullstack Engineer, Terraform Labs | Enterprise DAO, DAO v2, Enterprise Hub, indexer and middleware work, production response. |
-| **2022** | Frontend Engineer, TX Services | JobCloud marketplace work, Angular, GraphQL, NestJS middleware, NX libraries, Jest patterns. |
-| **2020 to 2022** | Frontend Engineer, Daon | Enterprise identity and biometrics admin UI, React tools, mobile web views, frontend leadership. |
+| **2022** | Frontend Engineer, TX Services | JobCloud marketplace work, Angular, GraphQL, NestJS middleware, NX libraries, and Jest patterns. |
+| **2020 to 2022** | Frontend Engineer, Daon | Enterprise identity and biometrics admin UI, React tools, mobile web views, and frontend leadership. |
 | **2019 to 2020** | Frontend Engineer, IBS | Live betting interfaces, real-time odds, market selection, bet slips, crawler and service health tools. |
-
-## How I Work
-
-- I prefer systems that can be inspected, replayed, tested, and explained.
-- I care about the full path from data model and API shape to the screen a user trusts.
-- I ship with artifacts: schemas, traces, tests, reports, release checks, and clear operating notes.
-- I like hard product surfaces: crypto infra, AI decision tools, trading analytics, identity, and real-time dashboards.
 
 ## Contact
 
